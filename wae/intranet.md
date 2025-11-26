@@ -1,5 +1,6 @@
 ---
 description: Heme intranetaren buruzko dokumentazioa.
+hidden: true
 ---
 
 # Intranet

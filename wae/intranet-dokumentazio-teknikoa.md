@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Intranet dokumentazio teknikoa
 
 ## Sareak:
