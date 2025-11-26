@@ -110,8 +110,6 @@ FLUSH PRIVILEGES;
 
 USE intranet;
 
-DROP TABLE users;
-
 CREATE TABLE erabiltzaileak(
 
 &#x20;   id INT AUTO\_INCREMENT PRIMARY KEY,
