@@ -22,8 +22,7 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 
 -Taldeei baimenak eman:
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/unknown (35).png" alt=""><figcaption></figcaption></figure>
 

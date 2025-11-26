@@ -90,8 +90,7 @@ SELECT User, Host FROM mysql.user;
 
 * Rola ezarri sartzerakoan:
 
-SET ROLE '...Rola';\
-
+SET ROLE '...Rola';<br>
 
 Hemen  datu base osoa txt bezala:
 
@@ -115,4 +114,4 @@ Hemen ikasle bezala sartuta ikusten dena:
 
 <figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

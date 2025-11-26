@@ -6,6 +6,8 @@
   * [Datu basea instalatu](datubase/datu-basea-instalatu.md)
   * [Datu basea sortu](datubase/datu-basea-sortu.md)
 * [WAE](wae/README.md)
+  * [Intranet](wae/intranet.md)
+  * [Intranet dokumentazio teknikoa](wae/intranet-dokumentazio-teknikoa.md)
   * [Wordpress instalatu](wae/wordpress-instalatu.md)
   * [Erabiltzaileak](wae/erabiltzaileak.md)
   * [Wordpress](wae/wordpress.md)

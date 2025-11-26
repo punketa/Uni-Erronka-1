@@ -12,7 +12,7 @@ description: Hemen GPO-ak azalduko ditugu.
 
 Configuración de usuario → Plantillas administrativas → Escritorio → Fondo de escritorio
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (55).png" alt=""><figcaption></figcaption></figure>
 
@@ -21,7 +21,7 @@ Configuración de usuario → Plantillas administrativas → Escritorio → Fond
 
 <figure><img src="../.gitbook/assets/unknown (56).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (57).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,7 +29,7 @@ Configuración de usuario → Plantillas administrativas → Escritorio → Fond
 
 <figure><img src="../.gitbook/assets/unknown (58).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (59).png" alt=""><figcaption></figcaption></figure>
 

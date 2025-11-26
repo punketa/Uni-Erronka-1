@@ -39,8 +39,7 @@ Arrisku nagusiak hauek izango lirateke:
 -Giza akatsak: fitxategiak ezabatzea, pasahitz ahulak.\
 -Hardware hutsegiteak: disko gogor apurtuta, sare osagaiak apurtzea.\
 -Hondamendi fisikoak: sutea, lapurreta.\
--Hornidura etenak: elektrizitate edo internet zerbitzuaren etenak.\
-
+-Hornidura etenak: elektrizitate edo internet zerbitzuaren etenak.<br>
 
 
 
@@ -64,8 +63,7 @@ Zenbait prebentzio hartu beharko izango genuke gauza hauek ez gertatzeko.
 -Sistemak: Korronte etenaren aurkako babesa (SAI edo UPS bat jarri adibidez)\
 -Hardware mantentze plana: Urteko berrikuspena egin eta ordezkapenak egitea.
 
-\
-
+<br>
 
 * #### Erantzun plana (larrialde momentuan):
 
@@ -88,8 +86,7 @@ Babeskopiak babestea:                                                           
 -Alarmak edo segurtasun fisikoko neurriak aktibatzea:                                                                                        Poliziarekin edo suhiltzaileekin harremanetan jartzea, gertakari motaren arabera
 
 \
-\
-
+<br>
 
 * #### Berreskuratze plana (larrialde ostean):
 
@@ -113,8 +110,7 @@ Babeskopiak babestea:                                                           
 
 -Ingurunean segurtasun fisikoa begiratzea : Kamerak, su-detektagailuak eta alarmak egiaztatzea
 
-\
-
+<br>
 
 * #### Berreskuratze generalean:
 
@@ -122,4 +118,4 @@ Zein edo zerk huts egin duen begiratzea eta txosten bat sortu neurriak aplikatze
 
 \- Finantza eta baliabideak: Kostuak kalkulatu (adibidez, aseguruak edo kanpoko laguntza).
 
-\
+<br>

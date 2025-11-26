@@ -18,10 +18,9 @@ ip addr
 
 <figure><img src="../.gitbook/assets/unknown (9) (1) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**-Jitsiarentzako DNS sortu**\
-
+**-Jitsiarentzako DNS sortu**<br>
 
 <figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -33,8 +32,7 @@ ip addr
 * Nuevo HOST (IP-a jarri 192.168.10.11)
 
 \
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -72,8 +70,7 @@ sudo nano /etc/hosts
 
 Jarri 127.0.0.1 localhost lerroaren azpian: 192.168.10.11 jitsi.payojitsi.eus
 
-![](<../.gitbook/assets/unknown (5) (1) (1) (1).png>)\
-
+![](<../.gitbook/assets/unknown (5) (1) (1) (1).png>)<br>
 
 sudo ufw allow OpenSSH
 

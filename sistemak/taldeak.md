@@ -10,9 +10,8 @@ Gure unibertsitatean bi OU egongo dira, bat ikasleentzako eta bestea irakasleent
 
 Irakasleen kasuan tutoreak sortu ditugu klase bakoitzak bere tutorea izateko. Eta irakasleak taldea ere sortu dugu.
 
-![](<../.gitbook/assets/image (7).png>)\
-
+![](<../.gitbook/assets/image (7) (1).png>)<br>
 
 ### Erabiltzaileen informazioa:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

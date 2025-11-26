@@ -1,4 +1,4 @@
-# Iraunkortasun-plana
+# Jasangarritasun-plana
 
 Iraunkortasun Plana - Uni Payo&#x20;
 
@@ -82,4 +82,4 @@ Arriskuak eta neurriak&#x20;
 
 \- Motibazio falta: jarduera praktiko eta ikusgarriekin motibatu.
 
-\
+<br>

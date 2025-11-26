@@ -6,11 +6,11 @@ description: 'Inprimagailuaren bigarren zatia dokumentatuko dugu:'
 
 **-Inprimagailuen portuak:**
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Windows bezero Cups-eko inprimagailu batetik inprimatu:
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
 \-
 
@@ -24,8 +24,7 @@ description: 'Inprimagailuaren bigarren zatia dokumentatuko dugu:'
 
 ### **Linux bezero Cups-eko inprimagailu batetik inprimatu:**
 
--Bezero hau erabiliko dugu:\
-
+-Bezero hau erabiliko dugu:<br>
 
 <figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,8 +36,7 @@ description: 'Inprimagailuaren bigarren zatia dokumentatuko dugu:'
 
 <figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
 
--”Imprimir\
-
+-”Imprimir<br>
 
 <figure><img src="../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
 

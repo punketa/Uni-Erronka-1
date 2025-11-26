@@ -22,7 +22,7 @@ sudo mysql\_secure\_installation
 
 **Set root password:** PayoServer
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Erroreak
 
@@ -48,4 +48,4 @@ sudo rm -rf /etc/mysql
 
 <figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1).png" alt="" width="469"><figcaption></figcaption></figure>
 
-\
+<br>

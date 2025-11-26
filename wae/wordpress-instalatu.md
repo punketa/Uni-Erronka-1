@@ -34,10 +34,9 @@ sudo systemctl status apache2
 
 <figure><img src="../.gitbook/assets/unknown (11).png" alt=""><figcaption></figcaption></figure>
 
-Bezeroan: [http://192.168.10.12](http://192.168.10.12)\
+Bezeroan: [http://192.168.10.12](http://192.168.10.12)<br>
 
-
-![](<../.gitbook/assets/unknown (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -55,11 +54,9 @@ sudo chmod -R 755 /var/www/html/wordpress
 
 sudo a2enmod rewrite
 
-sudo systemctl restart apache2\
+sudo systemctl restart apache2<br>
 
-
-Bezeroan: [http://192.168.10.12/wordpress](http://192.168.10.12/wordpress) \
-
+Bezeroan: [http://192.168.10.12/wordpress](http://192.168.10.12/wordpress) <br>
 
 <figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -84,4 +81,4 @@ Bezeroan: [http://192.168.10.12/wordpress](http://192.168.10.12/wordpress) \
 
 <figure><img src="../.gitbook/assets/unknown (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>
